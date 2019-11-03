@@ -1,0 +1,6 @@
+#EXTINF:-1,RECORDE
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_473f8f343bf47dc5091b5842e43cc07c690f0739/playlist.m3u8
+#EXTINF:-1,FOX HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_473f8f343bf47dc5091b5842e43cc07c690f0739/playlist.m3u8
